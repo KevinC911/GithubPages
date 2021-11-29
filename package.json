@@ -2,7 +2,7 @@
   "name": "socialnetwork-project",
   "version": "0.1.0",
   "private": true,
-  "homepage": "KevinC911.github.io",
+  "homepage": "http://kevinc911.github.io/GithubPages",
   "dependencies": {
     "@craco/craco": "^6.4.1",
     "@testing-library/jest-dom": "^5.15.1",
